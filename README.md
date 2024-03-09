@@ -21,13 +21,13 @@ Flexible
 ## How to use
 
 Start by downloading and opening the [template](DiagramTemplate%20V1.0.pptx) in Powerpoint.
-- copy a (blue) box for each smartcontract;
+- copy a (blue) box for each smart contract;
 - in multi chain protocols (e.g. bridges) copy purple boxes for each chain;
 - add nested blue boxed, with increasingly darker blue for inherited contracts and used libraries;
-- copy the (light)yellow boxed for each internal/external/view function;
+- copy yellow boxes for each internal (light yellow) / external (dark yellow) / view (dotted line) function;
 - draw arrows from each function to all contracts/functions it calls;
-- use yellow/transparant boxed to cluster/group functions, for example with the same modifier;
-- simplify and reduce crossing lines by connecting arrows to cluster and by rearranging.
+- use yellow/transparant boxes to cluster/group functions, for example with the same modifier;
+- simplify and reduce crossing lines by connecting arrows to clusters and by rearranging boxes;
 - optionally add dark purple boxes for storage variables;
 - optionally add fat dotted lines for token flows;
 - create as many pages as useful.
