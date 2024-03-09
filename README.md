@@ -20,7 +20,7 @@ Flexible
 
 ## How to use
 
-Open the [template](DiagramTemplate%20V1.0.pptx) in Powerpoint and create as many pages as useful.
+Start by downloading and opening the [template](DiagramTemplate%20V1.0.pptx) in Powerpoint.
 - copy a (blue) box for each smartcontract;
 - in multi chain protocols (e.g. bridges) copy purple boxes for each chain;
 - add nested blue boxed, with increasingly darker blue for inherited contracts and used libraries;
@@ -29,7 +29,8 @@ Open the [template](DiagramTemplate%20V1.0.pptx) in Powerpoint and create as man
 - use yellow/transparant boxed to cluster/group functions, for example with the same modifier;
 - simplify and reduce crossing lines by connecting arrows to cluster and by rearranging.
 - optionally add dark purple boxes for storage variables;
-- optionally add fat dotted lines for token flows.
+- optionally add fat dotted lines for token flows;
+- create as many pages as useful.
 
 ## Template image
 
