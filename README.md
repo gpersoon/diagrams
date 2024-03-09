@@ -20,7 +20,7 @@ Flexible
 
 ## How to use
 
-Open the template in Powerpoint and create as many pages as useful.
+Open the [template](DiagramTemplate%20V1.0.pptx) in Powerpoint and create as many pages as useful.
 - copy a (blue) box for each smartcontract;
 - in multi chain protocols (e.g. bridges) copy purple boxes for each chain;
 - add nested blue boxed, with increasingly darker blue for inherited contracts and used libraries;
