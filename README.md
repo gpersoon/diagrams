@@ -24,7 +24,7 @@ Start by downloading and opening the [template](DiagramTemplate%20V1.0.pptx) in 
 - copy a (blue) box for each smart contract;
 - in multi chain protocols (e.g. bridges) copy purple boxes for each chain;
 - add nested blue boxed, with increasingly darker blue for inherited contracts and used libraries;
-- copy yellow boxes for each internal (light yellow) / external (dark yellow) / view (dotted line) function;
+- copy yellow boxes for each external (dark yellow) / internal (dotted line) / view (light yellow ) function;
 - draw arrows from each function to all contracts/functions it calls;
 - use yellow/transparant boxes to cluster/group functions, for example with the same modifier;
 - simplify and reduce crossing lines by connecting arrows to clusters and by rearranging boxes;
